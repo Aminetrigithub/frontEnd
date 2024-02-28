@@ -1,0 +1,21 @@
+.cadre1 {
+  color: cornsilk;
+  border: 2px solid black;
+  padding: 200px;
+}
+
+.cadre2 {
+  border: 2px cornsilk solid;
+  padding: 20px;
+}
+
+.mon-table {
+  background-color: rgba(255, 255, 255, 0.4);
+  margin-top: 40px;
+}
+tr{  background-color: rgba(144, 31, 31, 0.4);
+}
+
+th{
+  background-color: rgba(144, 31, 31, 0.4);
+}
